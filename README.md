@@ -1,1 +1,3 @@
-# collection of dotfiles for server
+# dotfiles
+
+### collection of dotfiles for server
